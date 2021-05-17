@@ -1,0 +1,31 @@
+body {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: rgb(39, 7, 54);
+   /* svg backgrounds by SVGBackgrounds.com */
+   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg %3E%3Crect fill='%23270736' width='11' height='11'/%3E%3Crect fill='%23270836' x='10' width='11' height='11'/%3E%3Crect fill='%23280936' y='10' width='11' height='11'/%3E%3Crect fill='%23280a36' x='20' width='11' height='11'/%3E%3Crect fill='%23280a36' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%23280b36' y='20' width='11' height='11'/%3E%3Crect fill='%23280c36' x='30' width='11' height='11'/%3E%3Crect fill='%23290d35' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%23290e35' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%23290f35' y='30' width='11' height='11'/%3E%3Crect fill='%23290f35' x='40' width='11' height='11'/%3E%3Crect fill='%232a1035' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%232a1135' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%232a1235' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%232a1235' y='40' width='11' height='11'/%3E%3Crect fill='%232a1335' x='50' width='11' height='11'/%3E%3Crect fill='%232b1435' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%232b1535' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%232b1534' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%232b1634' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%232b1734' y='50' width='11' height='11'/%3E%3Crect fill='%232c1734' x='60' width='11' height='11'/%3E%3Crect fill='%232c1834' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%232c1934' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%232c1a34' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%232c1a34' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%232c1b34' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%232d1c34' x='70' width='11' height='11'/%3E%3Crect fill='%232d1c34' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%232d1d33' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%232d1e33' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%232d1e33' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%232d1f33' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%232e2033' x='80' width='11' height='11'/%3E%3Crect fill='%232e2033' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%232e2133' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%232e2133' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%232e2233' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%232e2333' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%232e2332' x='90' width='11' height='11'/%3E%3Crect fill='%232e2432' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%232f2532' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%232f2532' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%232f2632' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%232f2732' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%232f2732' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%232f2832' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%232f2831' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%232f2931' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%232f2a31' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%232f2a31' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%23302b31' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%23302c31' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%23302c31' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%23302d31' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%23302d31' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%23302e30' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%23302f30' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%23302f30' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%23303030' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+   background-size: cover;
+   font-family: Helvetica, Arial, sans-serif;
+   height: 100vh;
+   text-align: center;
+}
+
+a {
+   display: block;
+   background-color: rgb(226, 182, 246);
+   color: rgb(28, 32, 53);
+   letter-spacing: 1px;
+   font-size: 2em;
+   font-weight: 700;
+   text-transform: uppercase;
+   text-decoration: none;
+   padding: 1em 2em;
+   transition: all 0.2s ease-in-out;
+}
+
+a:hover,
+a:focus {
+   background-color: rgb(28, 32, 53);
+   color: #fff;
+}
